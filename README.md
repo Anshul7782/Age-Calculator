@@ -1,2 +1,2 @@
 # Age-Calculator
-Design Age calculator uesing HTML CSS and JAVASCRIPTS
+Design Age calculator using HTML CSS and JAVASCRIPTS
